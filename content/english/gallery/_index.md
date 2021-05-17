@@ -1,8 +1,8 @@
 ---
-title: "Our Project"
-description: "this is meta description"
+title: "Our Apartments"
+description: "Discover our little paradise"
 draft: false
-bg_image: "images/feature-bg.jpg"
+bg_image: "images/apartments/DSC02479-HDR.jpg"
 menu:
   main:
     name: "Gallery"
