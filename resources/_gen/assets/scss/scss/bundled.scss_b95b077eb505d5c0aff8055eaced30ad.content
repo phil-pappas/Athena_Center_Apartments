@@ -1095,7 +1095,7 @@ font header .navbar-default .navbar-nav li a:hover {
 	-moz-transition: all .3s ease;
 	-ms-transition: all .3s ease;
 	-o-transition: all .3s ease;
-	transition: all .3s ease
+	transition: all .3s ease;
 }
 
 .portfolio-item {

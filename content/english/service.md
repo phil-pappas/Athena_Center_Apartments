@@ -72,8 +72,8 @@ service:
 
     # service item loop
     - icon: ion-ios-medical #ionicon pack v2 : https://ionicons.com/v2/
-      name: Air conditioning
-      content: "New DAIKIN air conditioners are installed everywhere"
+      name: A/C & Fridges
+      content: "New DAIKIN air conditioners and fridges are installed in every apartment"
 
     # service item loop
     - icon: ion-android-restaurant #ionicon pack v2 : https://ionicons.com/v2/

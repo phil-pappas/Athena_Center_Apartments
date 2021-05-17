@@ -3,6 +3,6 @@ title: ""
 description: ""
 draft: false
 image: "images/apartments/Athena center I/athena_I_1.jpg"
-category: "Athena L"
+category: "Athena  I"
 information:
 ---
