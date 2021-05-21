@@ -47,7 +47,7 @@ service:
 ############################ call to action ###########################
 cta:
   enable: true
-  bg_image: "images/back_2.jpg"
+  bg_image: "images/DJI_0136.jpg"
   title: "We are here to offer you a unique experience."
   content: "In Sivota, you will experience crystal blue seas combined with traditional Greek food, green of nature, seaside restaraunts, beach bars and many more. <br/>Are you feeling ready to visit this summery heaven with the most comfortable and affordable accomondation?"
   button:

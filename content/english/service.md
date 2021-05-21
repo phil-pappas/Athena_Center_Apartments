@@ -46,9 +46,7 @@ featured_service:
 service:
   enable: true
   title: "Our Services"
-  description:
-    "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, <br> there live the
-    blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics"
+  description: "Our apartments are covering a variety of services to ensure a relaxed time off from your working routine <br/>while at the same time providing everything you need to feel like home."
   service_item:
     # service item loop
     - icon: ion-coffee #ionicon pack v2 : https://ionicons.com/v2/

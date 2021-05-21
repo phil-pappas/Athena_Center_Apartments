@@ -1,7 +1,7 @@
 ---
-title: "Drop Us A Note"
-description: "this is meta description"
-bg_image: "images/feature-bg.jpg"
+title: "Drop Us A Message"
+description: "Feel free to send us queries you might have for the accomondation or our availability."
+bg_image: "images/DJI_0147.jpg"
 layout: "contact"
 draft: false
 menu:

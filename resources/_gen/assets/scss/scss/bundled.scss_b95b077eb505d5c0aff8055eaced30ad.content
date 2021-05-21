@@ -167,8 +167,8 @@ input[type=tel]:focus {
 .btn-main:hover,
 .btn-small:hover,
 .btn-transparent:hover {
-	background: #2292b9;
-	color: #000000
+	background: #000000;
+	color: #FFFFFF
 }
 
 .btn-solid-border {
