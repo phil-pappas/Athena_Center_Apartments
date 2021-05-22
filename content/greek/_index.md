@@ -5,18 +5,18 @@ banner:
   bg_image: "images/DSC02457.jpg"
   bg_overlay: true
   title: "Athena Center <br/> Apartments <br/> Sivota"
-  content: "We love to accomondate people"
+  content: "Χαρά μας να σας φιλοξενούμε"
   button:
     enable: true
-    label: "Discover Our Apartments"
+    label: "Δειτε τα διαμερισματα μας"
     link: "gallery"
 
 ############################# About #################################
 about:
   enable: true
-  title: "About Us"
-  description: "You don't need magic to disappear. All you need is a nice destination. <br/>Visit us and enjoy a stressfree holiday experience."
-  content: "<b>Athena Center Apartments</b> in <b>Sivota</b> of Greece are freshly renovated and fully equipped apartments that will offer you a memorable stay. Our accommodations are located no more than 5 minutes walking distance from Sivota's main plaza and less than 1km from all the nearby crystal blue beaches. Our goal is to make our guests experience an authentic Greek hospitality that will make their stay both enjoyable and comfortable."
+  title: "Σχετικα με εμας"
+  description: "Δεν χρειάζεσαι μαγεία για να εξαφανιστείς. Όλα όσα χρειάζεσαι, είναι ένας ωραίος προορισμός. <br/>Επισκεφτείτε μας και ζήστε μια ξένοιαστη εμπειρία διακοπών."
+  content: "Το <b>Athena Center Apartments</b> στα <b>Σύβοτα</b> Θεσπρωτίας είναι ένα συγκρότημα με πλήρως ανακαινισμένα μοντέρνα διαμερίσματα τα οποία θα σας παρέχουν μια μοναδική εμπειρία διαμονής. Η τοποθεσία του, δεν απέχει παραπάνω απο 5 λεπτά περπάτημα απο το κέντρο των Συβότων και λιγότερο απο 1 χιλιόμετρο απο δεκάδες κοντινές, καταγάλανες παραλίες. Στόχος μας είναι να προσφέρουμε στους καλεσμένους μας μια άνετη και ευχάριστη φιλοξενία η οποία θα τους μείνει αξέχαστη."
   image: "images/front3.jpg"
 
 
@@ -25,15 +25,13 @@ about:
 portfolio:
   enable: true
   bg_image: "images/test1.jpg"
-  title: "YOUR PEACE OF MIND IS OUR PRIORITY"
-  content: " In our apartments, you will find everything you need to relax from your daily routine without losing any of your comforts.
+  title: "Η ΑΝΕΣΗ ΣΑΣ, Η ΠΡΟΤΕΡΑΙΟΤΗΤΑ ΜΑΣ"
+  content: " Στα διαμερίσματα μας θα βρείτε όλα όσα χρειάζεστε για να χαλαρώσετε απο το άγχος της καθημερινότητα σας, χωρίς να σας λείψει τίποτα απο το σπίτι σας.
 
-
-  New beds with high-quality mattresses, large Smart TVs, and elegant bathrooms will ensure a smooth stay with luxurious vibes.
-  "
+  Καινούργια κρεβάτια με υψηλής ποιότητας στρώματα, Smart TV, Air-Condition και καφετιέρες για έχετε κάθε άνεση στη διάθεση σας."
   button:
     enable: true
-    label: "View Apartments"
+    label: "Δείτε τη Gallery"
     link: "gallery"
 
 
@@ -47,12 +45,11 @@ service:
 cta:
   enable: true
   bg_image: "images/DJI_0136.jpg"
-  title: "We are here to offer you a unique experience."
-  content: "In Sivota, you will experience crystal blue waters combined with traditional Greek food, green nature, seaside restaurants and beach bars. <br/>
-  Are you feeling ready to visit this mesmerizing paradise with the most comfortable and affordable accommodation?"
+  title: "Είμαστε εδώ για να σας χαρίσουμε αναμνήσεις."
+  content: "Στα Σύβοτα, θα συναντήσετε το μπλε της θάλασσας με το καταπράσινο της φύσης, παραθαλάσσια εστιατόρια με ποιοτικό, παραδοσιακό Ελληνικό φαγητό καθώς και διάφορα beach bars για τους πιο απαιτητικούς επισκέπτες. Είστε έτοιμοι να επισκεφτείτε αυτό το καλοκαιρινό παράδεισο με τη πιο άνετη και ξένοιαστη διαμονή;"
   button:
     enable: true
-    label: "Start your experience"
+    label: "ΞΕΚΙΝΗΣΤΕ ΤΗΝ ΕΜΠΕΙΡΙΑ ΣΑΣ"
     link: "contact"
 
 ############################# Funfacts ###############################

@@ -45,49 +45,48 @@ featured_service:
 ############################# Service ###############################
 service:
   enable: true
-  title: "Our Services"
-  description: "Our apartments are covering a variety of services to ensure a relaxed time-off"
+  title: "Οι παροχες μας"
+  description: "Όλα τα διαμερίσματά μας καλύπτουν μεγάλη ποικιλία υπηρεσιών για να διασφαλίσουν ευχάριστες διακοπές <br/> καθώς ταυτόχρονα σας παρέχουμε ότι χρειάζεστε για να νιώσετε σαν το σπίτι σας."
   service_item:
     # service item loop
     - icon: ion-coffee #ionicon pack v2 : https://ionicons.com/v2/
-      name: Coffee
-      content: "High quality illy coffee to begin your day with a smile"
+      name: ΚΑΦΕΣ
+      content: "Υψηλής ποιότητας illy καφέ για να ξεκινήσετε τη μέρα σας με χαμόγελο"
 
     # service item loop
     - icon: ion-wifi #ionicon pack v2 : https://ionicons.com/v2/
       name: Wifi
-      content: "All of our apartments have stable internet wifi access"
+      content: "Όλα τα διαμερίσματα μας έχουν σύνδεση στο internet μέσω WiFi"
 
     # service item loop
     - icon: ion-ios-monitor #ionicon pack v2 : https://ionicons.com/v2/
       name: 43'' Smart TV
-      content: "Every apartment is equipped with a new Samsung  Smart TV to cover your most demanding needs "
+      content: "Σε κάθε διαμέρισμα θα βρείτε 43 ιντσών Samsung τηλεοράσεις για να καλύψουν και τους πιο απαιτητικούς σινεφίλ επισκέπτες μας"
 
     # service item loop
     - icon: ion-android-cart #ionicon pack v2 : https://ionicons.com/v2/
-      name: Near Stores
-      content: "Supermarkets and bakeries can be found less than 50 meters away from the apartments"
+      name: Κομβικη τοποθεσια
+      content: "Μπορείτε να βρείτε σουπερ μάρκετ και φούρνους σε απόσταση λιγότερη των 50 μέτρων απο το συγκρότημά μας για τις καθημερινές σας ανάγκες"
 
     # service item loop
     - icon: ion-ios-medical #ionicon pack v2 : https://ionicons.com/v2/
-      name: A/C & Fridges
-      content: "State of the art new appliances are installed in every apartment
-"
+      name: A/C & Ψυγεία
+      content: "Καινούργια κλιματιστικά και ψυγεία είναι εγκατεστημένα σε κάθε διαμέρισμα"
 
     # service item loop
     - icon: ion-android-restaurant #ionicon pack v2 : https://ionicons.com/v2/
-      name: Cutlery
-      content: "Every apartment is equipped with all the essential cutlery and glassware"
+      name: Ειδη σερβιρισματος
+      content: "Κάθε διαμέρισμα είναι εξοπλισμένο με ποτήρια και μαχαιροπίρουνα"
 
     # service item loop
     - icon: ion-android-walk #ionicon pack v2 : https://ionicons.com/v2/
-      name: Close distances
-      content: "Sivota's main square is no more than 250 meters away"
+      name: ΚΟΝΤΙΝΕΣ ΑΠΟΣΤΑΣΕΙΣ
+      content: "Το κέντρο του χωριού δεν απέχει παραπάνω απο 250 μέτρα όπως και δεκάδες παραλίες σε λιγότερο απο 1 χιλιόμετρο απόσταση"
 
     # service item loop
     - icon: ion-social-buffer #ionicon pack v2 : https://ionicons.com/v2/
-      name: Linen
-      content: "Freshly cleaned linen are changed </br>on a regular basis"
+      name: ΛΕΥΚΑ ΕΙΔΗ
+      content: "Σας παρέχουμε όλα τα απαραίτητα λευκά είδη (σεντόνια, μαξιλαροθήκες και πετσέτες) φρεσκοπλυμμένα για κάθε καλεσμένο "
 ############################# call to action #################################
 cta:
   enable: true

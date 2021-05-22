@@ -1,20 +1,19 @@
 ################################# Basic configuration #########################
 # Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 baseURL = "http://examplesite.org"
-title = "Airspace | Creative Agency Hugo Template"
+title = "Athena Center | Home"
 theme = "airspace-hugo"
 # Number of posts per page in list view
 paginate = "4"
 # Post excerpt length
 summaryLength = "30"
 # Disabled languages
-disableLanguages = []
+disableLanguages = ["de", "it"]
 # Short name to enable Disqus comments
 disqusShortname = "" # Get your shortname from here: https://disqus.com/profile/signup/
 # Measurement ID (G-XXXXXXX) to enable Google Analytics
 googleAnalytics = ""
-
-
+defaultContentLanguage = "gr"
 ################################# Output formats ##############################
 # Documentation: https://gohugo.io/templates/output-formats/#customizing-output-formats
 
@@ -65,11 +64,11 @@ address_descriptors = false
 [params.contact.form]
 enable = true
 # Whether to use [Netlify Forms](https://docs.netlify.com/forms/setup/)
-use_netlify = true
+use_netlify = false
 # Form action
 ## Fill in your Form ID URL for Formspree.io, e.g. `https://formspree.io/f/{form_id}`
 ## Ignored if `use_netlify = true` (custom [success page](https://docs.netlify.com/forms/setup/#success-messages) is already included) 
-action = "#"
+action = "https://formspree.io/f/xknkjlvr"
 # Image on custom success page `/message_sent.html`
 success_image = "images/paper-plane.svg"
 
@@ -161,12 +160,14 @@ link = "plugins/google-map/gmap.js"
 attributes = "defer"
 
 
+
+[languages]
 ################################# English translation #########################
 [languages.en]
 languageName = "English"
 languageCode = "en-US"
 contentDir = "content/english"
-weight = 1
+weight = 2
 copyright = "Copyright &copy; 2021 [Themefisher](https://themefisher.com). All Rights Reserved."
 
 # Main menu
@@ -188,51 +189,31 @@ URL = "contact"
 weight = 2
 
 
-################################# French translation ##########################
-[languages.fr]
-languageName = "Français"
-languageCode = "fr-FR"
-contentDir = "content/french"
-weight = 2
-copyright = "Copyright &copy; 2021 [Themefisher](https://themefisher.com). Tous droits réservés."
+################################# Greek translation ##########################
+[languages.gr]
+languageName = "Greek"
+languageCode = "gr-GR"
+contentDir = "content/greek"
+weight = 1
+copyright = "Copyright &copy; 2021 [Themefisher](https://themefisher.com). All Rights Reserved."
+
 
 # Main menu
-# NOTE: Leaf entries linking to content should be defined in the content file's respective front matter.
-[[languages.fr.menu.main]]
-hasChildren = true
-weight = 5
-name = "Plus"
-
-# Footer menu
-[[languages.fr.menu.footer]]
-name = "À propos"
-URL = "about"
+[[languages.gr.menu.main]]
+name = "ΑΡΧΙΚΗ"
+URL = "/"
 weight = 1
 
-[[languages.fr.menu.footer]]
-name = "Projet"
-URL = "project"
-weight = 2
+[[languages.gr.menu.footer]]
+name = "Gallery"
+URL = "gallery"
+weight = 1
 
-[[languages.fr.menu.footer]]
-name = "Service"
-URL = "service"
-weight = 3
 
-[[languages.fr.menu.footer]]
-name = "Tarification"
-URL = "pricing"
-weight = 4
-
-[[languages.fr.menu.footer]]
-name = "Questions fréquentes"
-URL = "faq"
-weight = 5
-
-[[languages.fr.menu.footer]]
-name = "Contact"
+[[languages.gr.menu.footer]]
+name = "ΕΠΙΚΟΙΝΩΝΙΑ"
 URL = "contact"
-weight = 6
+weight = 2
 
 
 ################################# Italian translation ##########################
