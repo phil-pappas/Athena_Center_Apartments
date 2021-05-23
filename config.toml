@@ -1,6 +1,6 @@
 ################################# Basic configuration #########################
 # Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
-baseURL = "http://athenacenter.gr"
+baseURL = "https://www.athenacenter.gr/"
 title = "Athena Center | Home"
 theme = "airspace-hugo"
 # Number of posts per page in list view
@@ -16,6 +16,7 @@ googleAnalytics = ""
 defaultContentLanguage = "gr"
 ################################# Output formats ##############################
 # Documentation: https://gohugo.io/templates/output-formats/#customizing-output-formats
+canonifyURLs = true
 
 [outputs]
 home = [ "HTML" ]
